@@ -1,0 +1,10 @@
+* {
+    background-color: antiquewhite;
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+.page-title,h1 {
+    text-align: center;
+    color: antiquewhite;
+    background-color: brown;
+    padding: 5px;
+}
