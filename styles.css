@@ -1,10 +1,32 @@
 * {
     background-color: antiquewhite;
-    font-family:Georgia, 'Times New Roman', Times, serif
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    scrollbar-color: darkolivegreen antiquewhite;
 }
 .page-title,h1 {
     text-align: center;
     color: antiquewhite;
     background-color: brown;
     padding: 5px;
+}
+
+h2 {
+    color: brown;
+}
+
+a {
+    
+    color: darkolivegreen;
+}
+
+a:visited {
+    color: darkgoldenrod;
+}
+
+a:hover {
+    color: red;
+}
+
+li, p {
+    color: rgb(0, 68, 0);
 }
